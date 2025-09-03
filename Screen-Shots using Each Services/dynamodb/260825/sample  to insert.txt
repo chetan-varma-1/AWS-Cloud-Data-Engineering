@@ -1,0 +1,4 @@
+UserID,Timestamp,address,login_count,status
+user123,2025-08-20T12:00:00,123 Maple St,1,active
+user123,2025-08-21T14:30:00,123 Maple St,2,active
+user456,2025-08-22T09:45:00,789 Oak St,1,inactive
